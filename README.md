@@ -10,6 +10,6 @@
 - 📫 How to reach me: 15298377308(same to WX)
 - 😄 Pronouns: you are too young too naive
 - ⚡ Fun fact: 
-good at table tennis
-good at coding
-good at playing
+  - good at table tennis
+  - good at coding
+  - good at playing
