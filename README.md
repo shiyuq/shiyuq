@@ -3,7 +3,6 @@
 ###
 ![Static Badge](https://img.shields.io/badge/javascript-blue?logo=javascript) ![Static Badge](https://img.shields.io/badge/nodejs-blue?logo=node.js) ![Static Badge](https://img.shields.io/badge/express-blue?logo=express) ![Static Badge](https://img.shields.io/badge/mysql-blue?logo=mysql) ![Static Badge](https://img.shields.io/badge/redis-blue?logo=redis)
 
-- 🔭 I’m currently working on QCC
 - 🌱 I’m currently learning nestjs
 - 👯 I’m good at handling conflict problems
 - 💬 Ask me about coding that you worried
